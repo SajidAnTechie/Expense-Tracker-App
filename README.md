@@ -8,9 +8,9 @@ This is a expense tracker app made with funtional components,hooks and context-a
 
 # Project Setup
 ```bash
-//Install the dependencies
+#Install the dependencies
 npm install
 
-//Run app
+ #Run app
 npm start
 ```
